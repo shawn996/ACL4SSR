@@ -1548,6 +1548,7 @@
 [proxy_list]
 (^|\.)nianticlabs.com$
 (^|\.)openai.com$
+(^|\.)ingress.com$
 # MyList
 (^|\.)1password\.com$
 (^|\.)adguard\.org$
